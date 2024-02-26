@@ -19,7 +19,7 @@
 
 ## Как установить и запустить проект
 - Скачайте файлы проекта из репозитория командой:
-`git clone https://github.com/rotkart/predprof_prakt`
+`git clone https://github.com/sav24ana/predproff26_02/tree/master
 - Для запуска любого из файлов Вам понадобится установленный интерпретатор python.
 Запустите любой из py-файлов проекта командой:
 `python3 <имя_файла.py>`
